@@ -1,6 +1,6 @@
 {
-    "name": "bmi_starting",
-    "short_name": "bmi_starting",
+    "name": "bmi_claculatore",
+    "short_name": "bmi_claculatore",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
